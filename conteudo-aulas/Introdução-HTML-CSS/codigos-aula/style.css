@@ -1,0 +1,40 @@
+body{
+    background: #2d3242;
+    width: 900px;
+    margin: auto;
+}
+
+.photo{
+    border-radius: 50%;
+}
+#title, .subtitle, .presentation-title, .learning, .contact{
+    color: #f9f9f9;
+    font-family: "Verdana";
+    margin-bottom: 5px;
+}
+
+.presentation{
+    background: #2d3242;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.presentation-title{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.presentation-text, .linguage{
+    margin: 0;
+    margin-bottom: 15px;
+    color:#f9f9f9;
+    font-family: "Verdana";
+    font-size: 14px;
+    text-align: justify;
+}
+a{
+    font-family: "Verdana";
+    color: #d0d3d6;
+}
