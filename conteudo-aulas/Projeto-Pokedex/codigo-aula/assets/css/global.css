@@ -1,0 +1,24 @@
+*{
+    font-family: Onest, Roboto;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f6fafc;
+}
+
+.content{
+    height: 100vh;
+    width: 100vw;
+    padding: 1rem;
+    background-color: #fff;
+}
+
+@media screen and (min-width: 778px){
+    .content{
+        max-width: 778px;
+        height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem;
+    }
+}
