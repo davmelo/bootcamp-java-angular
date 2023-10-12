@@ -37,7 +37,3 @@
       comsole.log("Hello, world!");
   }
   ```
-  
-  ```
-  
-  ```
